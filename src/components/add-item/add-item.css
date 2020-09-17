@@ -1,0 +1,16 @@
+.btn-overlay {
+    display: block;
+    position: fixed;
+    width: 100%;
+    bottom: 120px;
+}
+
+.btn {
+    background: #000000;
+    border-radius: 50%;
+    color: #fff;
+    float: right;
+    height: 50px;
+    width: 50px;
+    box-shadow: 0 6px 18px rgba(14,21,47,.1), 0 -2px 6px rgba(14,21,47,.02);
+}
